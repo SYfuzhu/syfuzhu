@@ -35,9 +35,9 @@
             if (btn.textContent.trim() === '蓝奏云下载') {
                 btn.addEventListener('click', function(e) {
                     e.preventDefault();
-                    alert('密码:1234');
+                    alert('密码:33xd');
                     // 实际部署时可替换为：
-                    window.open('https://wwvt.lanzoum.com/i3dKF2sni66j');
+                    window.open('https://wwvt.lanzoum.com/ik5J12tx0tyd');
                 });
             }
         });
